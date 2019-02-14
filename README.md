@@ -9,6 +9,7 @@
 - PostgreSQL (enterprise database)
 - Docker (lightweight virtual machine)
 - Travis-CI (automate testing and linting)
+  - linting with flake8
 - TDD Methodologies
 
 ## API
